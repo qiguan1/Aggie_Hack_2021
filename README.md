@@ -24,6 +24,8 @@ Using NLP tools (Sentiment Analysis and Topic Modeling) to analyze the impact of
 <!-- OVERVIEW OF THE PROBLEM -->
 ## Overview of the Problem
 
+--Update: We won the 4th place!
+
 The 2021 UC Davis Aggie Hacks X Google Cloud COVID-19 Challenge brought together analytics enthusiasts from nine institutions to compete on analyzing the impact of COVID-19 on sectors including education, housing, employment, stock prices, politics, vaccination distribution, misinformation, etc.
 
 The two-week virtual hackathon allowed students to demonstrate their skills and proficiency in data analytics, machine learning, data visualization, and story-telling.
